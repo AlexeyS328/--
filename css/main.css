@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background: url(./sources/bgs/bg.webp)  center fixed ;
+    background: url(./sources/bgs/bg.webp)   fixed ;
     background-size: cover;
     overflow-x: hidden;
     display: flex;
