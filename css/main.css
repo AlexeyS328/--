@@ -1482,6 +1482,9 @@ body .popup .mid ul li{
 }
 body .popup .mid ul{
     gap: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
 }
 body .form .top .close img{
     width: 30px;
