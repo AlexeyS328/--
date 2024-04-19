@@ -1456,7 +1456,7 @@ body .popup{
     transform: translate(-50%, -50%);
     padding: 20px;
     border-radius: 5px;
-    background: url(../sources/bgs/bg-pop.webp) no-repeat;
+    background: url(./sources/bgs/bg-pop.webp) no-repeat;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
     z-index: 9999;
     display: flex;
@@ -1555,7 +1555,6 @@ body .form .mid form #subbtn{
 
     .menu-button{
         display: flex;
-       
     }
     .header .nav ul.menu-show {
         right: 0%;
