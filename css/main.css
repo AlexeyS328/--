@@ -1552,6 +1552,7 @@ body .form .mid form #subbtn{
 
     .menu-button{
         display: flex;
+        position: fixed;
     }
     .header .nav ul.menu-show {
         right: 0%;
