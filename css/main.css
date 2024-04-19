@@ -192,7 +192,7 @@ main .wrap .container_au .text_1 span{
     font-style: italic;
     font-size: 24px;
     font-weight: 200;
-    color: #ffffff;
+    color: #000000;
     padding: 50px 0;
 }
 main .wrap .container_au .text_2{
@@ -1541,7 +1541,7 @@ body .form .mid form #subbtn{
         position: fixed;
         width: 100vw;
         height: 100vh;
-        background: blue;
+        background: linear-gradient(68deg,#2A1556, #B4CEFF );
         flex-direction: column;
         justify-content: center;
         gap: 60px;
