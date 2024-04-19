@@ -4,8 +4,9 @@
     box-sizing: border-box;
 }
 body{
-    background: url(../sources/bgs/bg.webp) no-repeat;
+    background: url(../sources/bgs/bg.webp)top center no-repeat;
     background-size: cover;
+    background-attachment: fixed;
     overflow-x: hidden;
     display: flex;
     flex-direction: column;
