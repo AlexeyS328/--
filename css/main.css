@@ -1532,6 +1532,9 @@ body .form .mid form #subbtn{
 .menu-button.open span:nth-child(3) {
     transform: rotateZ(-45deg)  translateY(-17px);
 }
+.menu-button.open{
+    position: fixed;
+}
 
 @media screen and (max-width: 860px){
     .header .nav{
@@ -1552,7 +1555,7 @@ body .form .mid form #subbtn{
 
     .menu-button{
         display: flex;
-        position: fixed;
+       
     }
     .header .nav ul.menu-show {
         right: 0%;
